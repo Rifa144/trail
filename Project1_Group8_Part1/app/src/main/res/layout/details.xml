@@ -45,7 +45,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="15dp"
             android:gravity="center_horizontal"
-            android:text="Meet Rifa Prasla, a dynamic software engineer with a passion for problem-solving and innovation. With a Bachelor's degree in Computer Science and over 5 years of industry experience, Sarah has honed her skills in Java, Python, and JavaScript. Her strong analytical mindset and collaborative nature make her an asset to any team. Sarah is eager to leverage her expertise to tackle new challenges and drive impactful solutions in your organization." />
+            android:text="Meet Rifa Riyaz Prasla, a dynamic software engineer with a passion for problem-solving and innovation. With a Bachelor's degree in Computer Science and over 5 years of industry experience, Sarah has honed her skills in Java, Python, and JavaScript. Her strong analytical mindset and collaborative nature make her an asset to any team. Sarah is eager to leverage her expertise to tackle new challenges and drive impactful solutions in your organization." />
 
         <TextView
             android:id="@+id/contact"
